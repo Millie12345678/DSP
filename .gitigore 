@@ -1,0 +1,13 @@
+# MATLAB autosave / backup
+*.asv
+*.m~
+*.autosave
+# Simulink / generated
+slprj/
+sccprj/
+*.slxc
+# MATLAB code generation
+codegen/
+# OS noise
+.DS_Store
+
